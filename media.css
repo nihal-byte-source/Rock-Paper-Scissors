@@ -1,0 +1,25 @@
+@media(max-width:445px){
+    .title{
+        font-size: 20px;
+    }
+    .result{
+        font-size: 18px;
+        margin-top: 22px;
+        margin-bottom: 22px;
+    }
+    .score {
+        margin-top: 30px;
+      }
+    .move-icon{
+        height : 40px;
+      } 
+    .move-button {
+        width: 80px;
+        height: 80px;
+      }
+    .reset-score-button {
+        margin-top: 25px;
+        padding: 5px 10px 5px 10px;
+        font-size: 12px;
+      }  
+}
